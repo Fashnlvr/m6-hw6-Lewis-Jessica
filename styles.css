@@ -14,3 +14,13 @@ header {
     padding: 40px;
     border-bottom: 3px black;
 }
+
+h1 {
+    width: 50%;
+    display: inline-block;
+}
+
+nav {
+    width: 45%;
+    display: inline-block;
+}
