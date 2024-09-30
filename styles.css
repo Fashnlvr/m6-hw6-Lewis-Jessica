@@ -60,7 +60,7 @@ aside {
     background: white;
     padding: 20px;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     text-align: center;
 }
