@@ -41,3 +41,13 @@ nav a {
     padding: 10px 15px;
     border-radius: 5px;
 }
+
+main {
+    width: 45%;
+    display: inline-block;
+}
+
+aside {
+    width: 25%;
+    display: inline-block;
+}
