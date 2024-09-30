@@ -15,7 +15,8 @@ body {
 
 header {
     background: black;
-    font: italic white;
+    font-style: italic;
+    color: white;
     padding: 40px;
     border-bottom: 3px solid black;
 }
