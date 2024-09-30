@@ -53,4 +53,10 @@ aside {
     display: inline-block;
     vertical-align: top;
     background: white;
+    padding: 20px;
+}
+
+p{
+    margin: 15px 0;
+    line-height: 140%;
 }
