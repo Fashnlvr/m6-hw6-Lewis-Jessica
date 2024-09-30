@@ -18,7 +18,7 @@ header {
     font-style: italic;
     color: white;
     padding: 40px;
-    border-bottom: 3px solid whitesmoke;
+    border-bottom: 4px solid whitesmoke;
 }
 
 h1 {
@@ -84,4 +84,5 @@ footer {
     text-align: center;
     color: white;
     padding: 40px 0;
+    border-top: 4px solid whitesmoke;
 }
