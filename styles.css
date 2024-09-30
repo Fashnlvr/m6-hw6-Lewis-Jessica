@@ -50,4 +50,6 @@ main {
 aside {
     width: 25%;
     display: inline-block;
+    vertical-align: top;
+    background: white;
 }
