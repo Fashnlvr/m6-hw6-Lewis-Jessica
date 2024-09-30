@@ -53,12 +53,16 @@ main {
 }
 
 aside {
+    display: flex;
     width: 25%;
     display: inline-block;
     vertical-align: top;
     background: white;
     padding: 20px;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 p {
