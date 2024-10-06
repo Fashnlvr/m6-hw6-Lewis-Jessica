@@ -62,7 +62,7 @@ aside {
     flex-direction: row;
     text-align: center;
     height: fit-content;
-    padding-block: 20px;
+    padding-inline: 20px;
 }
 
 aside h2 {
