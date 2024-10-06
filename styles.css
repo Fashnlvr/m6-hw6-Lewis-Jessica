@@ -56,7 +56,8 @@ main {
 }
 
 aside h2 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    justify-content: center;
 }
 
 aside .link-container {
