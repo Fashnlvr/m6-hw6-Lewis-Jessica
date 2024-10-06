@@ -75,6 +75,7 @@ aside .link-container {
     display: inline-flexbox;
     vertical-align: bottom;
     justify-content: space-around;
+    flex-direction: column;
 }
 
 p {
