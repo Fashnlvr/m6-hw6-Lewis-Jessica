@@ -58,17 +58,18 @@ main {
 
 aside h2 {
     margin-bottom: 10px;
+    vertical-align: top;
 }
 
 aside .link-container {
     display: flex;
     flex-direction: row;
+    vertical-align: text-top;
 }
 
 aside {
     display: inline-flex;
     flex: 0 0 25%;
-    vertical-align: top;
     background: white;
     padding: 20px;
     flex-direction: row;
