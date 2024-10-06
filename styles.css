@@ -73,7 +73,6 @@ aside h2 {
 
 aside .link-container {
     display: flex;
-    vertical-align: bottom;
     justify-content: space-around;
     flex-direction: row;
 }
