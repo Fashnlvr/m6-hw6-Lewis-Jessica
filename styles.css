@@ -61,13 +61,13 @@ aside h2 {
 }
 
 aside .link-container {
-    display: flex;
+    display: inline-flexbox
     flex-direction: row;
     vertical-align: text-top;
 }
 
 aside {
-    display: inline-flex;
+    display: flex;
     flex: 0 0 25%;
     background: white;
     padding: 20px;
