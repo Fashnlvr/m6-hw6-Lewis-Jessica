@@ -62,7 +62,7 @@ aside h2 {
 aside .link-container {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    justify-content: space-between;
 }
 
 aside {
