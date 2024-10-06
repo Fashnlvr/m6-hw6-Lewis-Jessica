@@ -58,14 +58,12 @@ main {
 
 aside h2 {
     margin-bottom: 10px;
-    align-items: center;
 }
 
 aside .link-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
 }
 
 aside {
@@ -76,6 +74,7 @@ aside {
     padding: 20px;
     flex-direction: row;
     text-align: center;
+    align-items: center;
 }
 
 p {
