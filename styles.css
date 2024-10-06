@@ -55,8 +55,8 @@ main {
     margin-right: 30px;
 }
 
-h1 {
-    width: 40%;
+aside h2 {
+    margin-bottom: 20px;
 }
 
 aside {
@@ -68,7 +68,6 @@ aside {
     flex-direction: row;
     justify-content: center;
     text-align: center;
-    max-height: max-content;
 }
 
 p {
