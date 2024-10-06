@@ -72,10 +72,11 @@ aside h2 {
 }
 
 aside .link-container {
-    display: inline-flexbox
+    display: inline-flexbox;
     flex-direction: row;
     vertical-align: text-top;
     padding: 20px;
+    justify-content: space-between;
 }
 
 p {
