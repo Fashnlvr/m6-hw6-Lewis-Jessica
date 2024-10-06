@@ -59,7 +59,7 @@ aside {
     display: flex;
     flex: 0 0 25%;
     background: white;
-    flex-direction: row;
+    flex-direction: column;
     text-align: center;
     height: fit-content;
     padding: 20px;
@@ -72,10 +72,10 @@ aside h2 {
 }
 
 aside .link-container {
-    display: inline-flexbox;
+    display: flex;
     vertical-align: bottom;
     justify-content: space-around;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 p {
