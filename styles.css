@@ -65,10 +65,12 @@ aside .link-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 }
 
 aside {
     display: flex;
+    display: inline-flex;
     flex: 0 0 25%;
     vertical-align: top;
     background: white;
