@@ -75,6 +75,7 @@ aside .link-container {
     display: inline-flexbox
     flex-direction: row;
     vertical-align: text-top;
+    padding: 20px;
 }
 
 p {
